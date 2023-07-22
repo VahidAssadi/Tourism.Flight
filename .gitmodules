@@ -1,0 +1,12 @@
+[submodule "Flight.P3"]
+	path = Flight.P3
+	url = https://github.com/VahidAssadi/Flight.P3.git
+[submodule "Flight.P2"]
+	path = Flight.P2
+	url = https://github.com/VahidAssadi/Flight.P2.git
+[submodule "Flight.P1"]
+	path = Flight.P1
+	url = https://github.com/VahidAssadi/Flight.P1.git
+[submodule "Flight.Core"]
+	path = Flight.Core
+	url = https://github.com/VahidAssadi/Flight.Core.git
